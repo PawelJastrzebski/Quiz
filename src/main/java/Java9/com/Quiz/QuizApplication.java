@@ -8,5 +8,8 @@ public class QuizApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(QuizApplication.class, args);
+
+		System.out.println("TUTAJ\tTUTAJ\tg\tTUTAJ\tTUTAJ\tTUTAJ\tTUTAJ\t");
+
 	}
 }
